@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Markerok/Weather-app.git/static/css/main.9fadec99.css",
+    "main.js": "/Markerok/Weather-app.git/static/js/main.3c28fd93.js",
+    "static/js/787.d9312eb8.chunk.js": "/Markerok/Weather-app.git/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/Markerok/Weather-app.git/index.html",
+    "main.9fadec99.css.map": "/Markerok/Weather-app.git/static/css/main.9fadec99.css.map",
+    "main.3c28fd93.js.map": "/Markerok/Weather-app.git/static/js/main.3c28fd93.js.map",
+    "787.d9312eb8.chunk.js.map": "/Markerok/Weather-app.git/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fadec99.css",
+    "static/js/main.3c28fd93.js"
+  ]
+}
