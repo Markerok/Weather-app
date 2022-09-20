@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Markerok/Weather-app.git/static/css/main.9fadec99.css",
-    "main.js": "/Markerok/Weather-app.git/static/js/main.3c28fd93.js",
-    "static/js/787.d9312eb8.chunk.js": "/Markerok/Weather-app.git/static/js/787.d9312eb8.chunk.js",
-    "index.html": "/Markerok/Weather-app.git/index.html",
-    "main.9fadec99.css.map": "/Markerok/Weather-app.git/static/css/main.9fadec99.css.map",
-    "main.3c28fd93.js.map": "/Markerok/Weather-app.git/static/js/main.3c28fd93.js.map",
-    "787.d9312eb8.chunk.js.map": "/Markerok/Weather-app.git/static/js/787.d9312eb8.chunk.js.map"
+    "main.css": "/Weather-app/static/css/main.9fadec99.css",
+    "main.js": "/Weather-app/static/js/main.da8555fb.js",
+    "static/js/787.d9312eb8.chunk.js": "/Weather-app/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/Weather-app/index.html",
+    "main.9fadec99.css.map": "/Weather-app/static/css/main.9fadec99.css.map",
+    "main.da8555fb.js.map": "/Weather-app/static/js/main.da8555fb.js.map",
+    "787.d9312eb8.chunk.js.map": "/Weather-app/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fadec99.css",
-    "static/js/main.3c28fd93.js"
+    "static/js/main.da8555fb.js"
   ]
 }
